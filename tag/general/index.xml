@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Partha Ghosh</title>
-    <link>https://partha-ghosh.github.io/</link>
-      <atom:link href="https://partha-ghosh.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Partha Ghosh</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Partha Ghosh</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <title>General | Partha Ghosh</title>
+    <link>https://partha-ghosh.github.io/tag/general/</link>
+      <atom:link href="https://partha-ghosh.github.io/tag/general/index.xml" rel="self" type="application/rss+xml" />
+    <description>General</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Partha Ghosh</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://partha-ghosh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Partha Ghosh</title>
-      <link>https://partha-ghosh.github.io/</link>
+      <title>General</title>
+      <link>https://partha-ghosh.github.io/tag/general/</link>
     </image>
-    
-    <item>
-      <title>Kaggle Machine Learning Challenges</title>
-      <link>https://partha-ghosh.github.io/project/kaggle-machine-learning-challenges/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://partha-ghosh.github.io/project/kaggle-machine-learning-challenges/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Worked on several Machine Learning Challenges including ‘Heart Diseases Detection’, ‘Spam Detection’, ‘Twitter Sentiment Analysis’.&lt;/li&gt;
-&lt;li&gt;Achieved 88% accuracy on heart diseases detection using a Depp Neural Network and 98% accuracy on spam detection using a character level RNN and 70% accuracy on twitter sentiment analysis.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>PyEffects</title>
@@ -60,14 +48,6 @@
 called Jack.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://partha-ghosh.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://partha-ghosh.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
