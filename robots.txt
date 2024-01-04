@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://partha-ghosh.github.io/sitemap.xml
